@@ -1,7 +1,7 @@
 # CodeReviewExample
 
 ## Prerequisite for this tutorial
-- Some basic knowledge about Git
+- Some basic knowledge about Git from Csaba
 - A Github user
 
 # What's in it for me?
